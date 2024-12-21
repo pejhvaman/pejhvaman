@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨I'm currently working on developing front-end apps.<br>🕵️‍♂️I'm looking to collaborate on bigger applications.<br>🌠I'm looking for help with getting professional.<br>🧠I'm currently learning TypeScript.<br>🟣 I'm going to learn Node.js to be a full-stack Dev.<br>💭Ask me about anything from front-end world.<br><br><br><br>
+✨I am developing front-end applications and seeking collaboration on larger projects. Currently learning TypeScript, I aim to expand my skills to become a full-stack developer by learning Node.js. Feel free to ask me anything about front-end development.<br><br><br><br>
 
 
 ## 🌐 Socials:
